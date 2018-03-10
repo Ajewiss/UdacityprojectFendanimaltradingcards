@@ -1,0 +1,48 @@
+/* add your CSS here */
+ 
+ .animal-card {
+    padding-bottom: 30px;
+    width: 300px;
+    border: 1.5px  solid #d9d9d9;
+    box-shadow: 8px 8px #d9d9d9;
+}
+
+h3 {
+    padding-bottom: 2px;
+}
+
+p {
+    text-transform: inherit;
+    font-size: 16px;
+}
+
+li {
+    list-style: none;
+    font-size: 16px;
+    padding: 0px;
+}
+
+body {
+    width: 300px;
+    height: 600px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    border: 1.5px  solid #d9d9d9;
+}
+
+.main-infomation {
+    border: 1.5px solid #d9d9d9;
+    padding: 0%;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
+
+span {
+    font-weight: bold;
+    font-size: 16px;
+}
+   
